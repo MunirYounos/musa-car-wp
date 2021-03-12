@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Antonio
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/antonio
+
+Font: Coda
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/coda
+
+Font: Roboto
+Author: Christian Robertson
+Url: http://www.fontsquirrel.com/fonts/roboto
